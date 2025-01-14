@@ -1,0 +1,48 @@
+{
+  "dependencies": [
+    {
+      "name": "libavif",
+      "features": []
+    },
+    {
+      "name": "libheif",
+      "features": []
+    },
+    {
+      "name": "libjpeg-turbo",
+      "features": []
+    },
+    {
+      "name": "libpng",
+      "features": ["apng"]
+    },
+    {
+      "name": "libraw",
+      "features": []
+    },
+    {
+      "name": "libwebp",
+      "features": []
+    },
+    {
+      "name": "qoi",
+      "features": []
+    },
+    {
+      "name": "lcms",
+      "features": []
+    },
+    {
+      "name": "dav1d",
+      "features": []
+    },
+    {
+      "name": "libde265",
+      "features": []
+    },
+    {
+      "name": "libjxl",
+      "features": []
+    }
+  ]
+}

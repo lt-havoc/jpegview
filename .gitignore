@@ -2,6 +2,7 @@
 **/obj
 **/Debug
 **/Release
+vcpkg_installed/
 
 # Compiled Object files
 *.slo

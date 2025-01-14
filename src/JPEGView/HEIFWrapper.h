@@ -1,6 +1,6 @@
 #pragma once
 
-#include "libheif/heif_cxx.h"
+#include <libheif/heif_cxx.h>
 
 class HeifReader
 {

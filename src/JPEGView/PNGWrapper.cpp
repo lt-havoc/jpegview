@@ -3,7 +3,7 @@
 #include "PNGWrapper.h"
 
 #ifndef WINXP
-#include "png.h"
+#include <png.h>
 #include "MaxImageDef.h"
 #include <stdexcept>
 

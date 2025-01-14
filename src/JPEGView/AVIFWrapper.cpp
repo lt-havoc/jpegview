@@ -1,7 +1,7 @@
 #include "stdafx.h"
 
 #include "AVIFWrapper.h"
-#include "avif/avif.h"
+#include <avif/avif.h>
 #include "BasicProcessing.h"
 #include "MaxImageDef.h"
 #include "ICCProfileTransform.h"

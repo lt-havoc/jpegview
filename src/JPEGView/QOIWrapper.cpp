@@ -3,7 +3,7 @@
 #include "QOIWrapper.h"
 #define QOI_IMPLEMENTATION
 #define QOI_NO_STDIO
-#include "qoi/qoi.h"
+#include <qoi.h>
 #include "MaxImageDef.h"
 #include "Helpers.h"
 

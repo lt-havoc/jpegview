@@ -1,7 +1,7 @@
 #include "stdafx.h"
 
 #include "RAWWrapper.h"
-#include "libraw/libraw.h"
+#include <libraw/libraw.h>
 #include "Helpers.h"
 #include "ICCProfileTransform.h"
 #include "TJPEGWrapper.h"

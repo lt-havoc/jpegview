@@ -1,9 +1,9 @@
 #include "stdafx.h"
 
 #include "WEBPWrapper.h"
-#include "webp/decode.h"
-#include "webp/encode.h"
-#include "webp/demux.h"
+#include <webp/decode.h>
+#include <webp/encode.h>
+#include <webp/demux.h>
 #include "MaxImageDef.h"
 #include "Helpers.h"
 #include "ICCProfileTransform.h"
